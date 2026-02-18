@@ -17,7 +17,7 @@
       "automerge": false
     },
     {
-      "matchPackagePatterns": ["harbor\\\\.buck-lab-k8s\\\\.omlabs\\\\.org"],
+      "matchPackagePatterns": ["harbor\\.buck-lab-k8s\\.omlabs\\.org"],
       "enabled": false
     }
   ]
